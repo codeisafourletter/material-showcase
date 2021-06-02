@@ -1,6 +1,6 @@
 language: android
 jdk: oraclejdk8
-sudo: required # For faster internet speeds and more memory
+root: required # For faster internet speeds and more memory
 before_install:
   - mkdir "$ANDROID_HOME/licenses" || true
   - echo -e "\n8933bad161af4178b1185d1a37fbf41ea5269c55" > "$ANDROID_HOME/licenses/android-sdk-license"
