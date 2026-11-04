@@ -1,6 +1,11 @@
-[![Build Status](https://travis-ci.org/firebase/mlkit-material-android.svg?branch=master)](https://travis-ci.org/firebase/mlkit-material-android)
-
 # ML Kit Vision Showcase App with Material Design
+
+## Status and provenance
+
+Historical Google ML Kit sample snapshot, retained for reference. This standalone extraction is based on [Google's material showcase sample](https://github.com/googlesamples/mlkit/tree/master/android/material-showcase); it is not an independently maintained product.
+
+The original Android/Gradle requirements and Travis configuration are historical. A current Android build has not been verified. Use the upstream project for current supported setup instructions.
+
 
 This app demonstrates how to build an end-to-end user experience with
 [Google ML Kit APIs](https://developers.google.com/ml-kit/guides) and following the
